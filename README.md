@@ -9,7 +9,7 @@
   - [HAUNTED ROAD Game](https://github.com/ZGB97/Haunt-House-Game)
 - <b>Web Applications</b>
   - [CRUD Census (Mean Stack)](https://github.com/ZGB97/MEAN-STACK)
-  - [Restaurant Calculator (JavaScript)](https://github.com/ZGB97/MEAN-STACK)
+  - [Restaurant Calculator (JavaScript)](https://github.com/ZGB97/RestCac/blob/main/README.md)
 
 <h2> 🔢Data Projects:</h2>
 
