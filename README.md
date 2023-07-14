@@ -6,7 +6,7 @@
   - [Fitness Platform](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>C </b>
   - [ROCK, PAPER, SCISSORS Game](https://github.com/ZGB97/Rock-Paper-Scissors)
-  - [HAUNTED ROAD Game](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [HAUNTED ROAD Game](https://github.com/ZGB97/Haunt-House-Game)
 - <b>C# </b>
   - [Calculator](https://github.com/joshmadakor1/EncrypterPOC)
 
