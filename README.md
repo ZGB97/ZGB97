@@ -10,6 +10,7 @@
 - <b>Web Applications</b>
   - [CRUD Census (Mean Stack)](https://github.com/ZGB97/MEAN-STACK)
   - [Restaurant Calculator (JavaScript)](https://github.com/ZGB97/RestCac/blob/main/README.md)
+  - [Welcome Page (JavaScript)](https://github.com/ZGB97/RestCac/blob/main/README.md)
 
 <h2> 🔢Data Projects:</h2>
 
