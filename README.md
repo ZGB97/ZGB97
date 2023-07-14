@@ -1,14 +1,14 @@
 <h1>Hi, I'm Zonte! </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>PHP, HTML, CSS, JavaScript</b>
+  - [Fitness Platform] (https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>📰 Certifications </h2>
 
 - [CompTIA Security+ ](https://github.com/ZGB97/CompTIA-Security/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf)
 - [CompTIA Linux+ ](https://github.com/ZGB97/CompTIA-Linux/blob/main/CompTIA%20Linux%2B%20ce%20certificate.pdf)
-- [Microsoft Certified: Microsoft Data Fundamentals](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- [Microsoft Certified: Microsoft Data Fundamentals]()
 
 <h2> 🤳 Connect with me:</h2>
 
