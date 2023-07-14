@@ -15,7 +15,7 @@
 - <b>Microsoft SQL Server (SQL, MS Visio)</b>
   - [WBank of America](https://github.com/ZGB97/Fitness--Program)
 - <b>Microsoft SQL Server (SQL, MS Power BI)</b>
-  - [Hotel Data Analysis (Data Analysis Project) ](https://github.com/ZGB97/Fitness--Program)
+  - [Hotel Data Analysis (Data Analysis Project) ](https://github.com/ZGB97/PowerBI-Project)
 
 <h2>📰 Certifications </h2>
 
