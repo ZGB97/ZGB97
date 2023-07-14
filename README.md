@@ -1,8 +1,15 @@
 <h1>Hi, I'm Zonte! </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
-- <b>PHP, HTML, CSS, JavaScript</b>
-  - [Fitness Platform] (https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+- <b>Full Stack Web App (PHP, HTML, CSS, and JavaScript)</b>
+  - [Fitness Platform](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>C </b>
+  - [Magic 8-Ball Game](https://github.com/joshmadakor1/EncrypterPOC)
+  - [ROCK, PAPER, SCISSORS Game](https://github.com/joshmadakor1/DecrypterPOC)
+  - [HAUNTED ROAD Game](https://github.com/joshmadakor1/Key-Logger-With-Email)
+- <b>C# </b>
+  - [Calculator](https://github.com/joshmadakor1/EncrypterPOC)
 
 <h2>📰 Certifications </h2>
 
