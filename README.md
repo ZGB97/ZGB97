@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Full Stack Web App (PHP, HTML, CSS, and JavaScript)</b>
-  - [Fitness Platform](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Fitness Platform](https://github.com/ZGB97/Fitness--Program)
 - <b>C </b>
   - [ROCK, PAPER, SCISSORS Game](https://github.com/ZGB97/Rock-Paper-Scissors)
   - [HAUNTED ROAD Game](https://github.com/ZGB97/Haunt-House-Game)
