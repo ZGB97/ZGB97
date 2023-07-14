@@ -10,6 +10,11 @@
 - <b>C# </b>
   - [Calculator](https://github.com/joshmadakor1/EncrypterPOC)
 
+<h2> 🔢Data Projects:</h2>
+
+- <b>Full Stack Web App (PHP, HTML, CSS, and JavaScript)</b>
+  - [Fitness Platform](https://github.com/ZGB97/Fitness--Program)
+
 <h2>📰 Certifications </h2>
 
 - [CompTIA Security+ ](https://github.com/ZGB97/CompTIA-Security/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf)
