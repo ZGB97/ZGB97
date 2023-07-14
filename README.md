@@ -8,7 +8,7 @@
   - [ROCK, PAPER, SCISSORS Game](https://github.com/ZGB97/Rock-Paper-Scissors)
   - [HAUNTED ROAD Game](https://github.com/ZGB97/Haunt-House-Game)
 - <b>MEAN Stack Application</b>
-  - [CRUD Census](https://github.com/joshmadakor1/EncrypterPOC)
+  - [CRUD Census](https://github.com/ZGB97/MEAN-STACK)
 
 <h2> 🔢Data Projects:</h2>
 
