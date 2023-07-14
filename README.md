@@ -11,6 +11,9 @@
   - [CRUD Census (Mean Stack)](https://github.com/ZGB97/MEAN-STACK)
   - [Restaurant Calculator (JavaScript)](https://github.com/ZGB97/RestCac/tree/main)
   - [Welcome Page (JavaScript)](https://github.com/ZGB97/WelcomeJav/tree/main)
+- <b>Python </b>
+  - [Calculator Program](https://github.com/ZGB97/Rock-Paper-Scissors)
+  - [HAUNTED ROAD Game](https://github.com/ZGB97/Haunt-House-Game)
 
 <h2> 🔢Data Projects:</h2>
 
