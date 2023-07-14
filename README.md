@@ -7,8 +7,9 @@
 - <b>C </b>
   - [ROCK, PAPER, SCISSORS Game](https://github.com/ZGB97/Rock-Paper-Scissors)
   - [HAUNTED ROAD Game](https://github.com/ZGB97/Haunt-House-Game)
-- <b>MEAN Stack Application</b>
-  - [CRUD Census](https://github.com/ZGB97/MEAN-STACK)
+- <b>Web Applications</b>
+  - [CRUD Census (Mean Stack)](https://github.com/ZGB97/MEAN-STACK)
+  - [Restaurant Calculator (JavaScript)](https://github.com/ZGB97/MEAN-STACK)
 
 <h2> 🔢Data Projects:</h2>
 
