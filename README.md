@@ -13,7 +13,7 @@
 <h2> 🔢Data Projects:</h2>
 
 - <b>Microsoft SQL Server (SQL, MS Visio)</b>
-  - [WBank of America](https://github.com/ZGB97/Fitness--Program)
+  - [WBank of America](https://github.com/ZGB97/WBankProject/tree/main)
 - <b>Microsoft SQL Server (SQL, MS Power BI)</b>
   - [Hotel Data Analysis (Data Analysis Project) ](https://github.com/ZGB97/PowerBI-Project)
 
