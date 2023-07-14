@@ -7,7 +7,7 @@
 <h2>📰 Certifications </h2>
 
 - [CompTIA Security+ ](https://github.com/ZGB97/CompTIA-Security/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf)
-- [CompTIA Linux+ ](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [CompTIA Linux+ ](https://github.com/ZGB97/CompTIA-Linux/blob/main/CompTIA%20Linux%2B%20ce%20certificate.pdf)
 - [Microsoft Certified: Microsoft Data Fundamentals](https://www.youtube.com/watch?v=N-L9hklSlNk)
 
 <h2> 🤳 Connect with me:</h2>
