@@ -5,7 +5,6 @@
 - <b>Full Stack Web App (PHP, HTML, CSS, and JavaScript)</b>
   - [Fitness Platform](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>C </b>
-  - [Magic 8-Ball Game](https://github.com/joshmadakor1/EncrypterPOC)
   - [ROCK, PAPER, SCISSORS Game](https://github.com/ZGB97/Rock-Paper-Scissors)
   - [HAUNTED ROAD Game](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>C# </b>
