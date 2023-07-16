@@ -21,6 +21,8 @@
   - [WBank of America](https://github.com/ZGB97/WBankProject/tree/main)
 - <b>Microsoft SQL Server (SQL, MS Power BI)</b>
   - [Hotel Data Analysis (Data Analysis Project) ](https://github.com/ZGB97/PowerBI-Project)
+- <b>Azure (Azure SQL Databases)</b>
+  - [Creating and Configuring SQL Databases in Azure](https://github.com/ZGB97/PowerBI-Project)
 - <b>Azure (SQL, Azure Databricks)</b>
   - [Create Data Pipeline in Azure - Pending]
 
