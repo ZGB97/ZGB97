@@ -24,7 +24,7 @@
 - <b>Azure (Azure SQL Databases)</b>
   - [Creating and Configuring SQL Databases in Azure](https://github.com/ZGB97/AzureSQL-CC/tree/main)
 - <b>Azure (SQL, Azure Databricks)</b>
-  - [Create Data Pipeline in Azure - Pending]
+  - Create Data Pipeline in Azure - Pending
 
 <h2>📰 Certifications </h2>
 
