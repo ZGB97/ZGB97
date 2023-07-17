@@ -22,7 +22,7 @@
 - <b>Microsoft SQL Server (SQL, MS Power BI)</b>
   - [Hotel Data Analysis (Data Analysis Project) ](https://github.com/ZGB97/PowerBI-Project)
 - <b>Azure (Azure SQL Databases)</b>
-  - [Creating and Configuring SQL Databases in Azure](https://github.com/ZGB97/AzureSQL-CC/tree/main)
+  - [Creating and Configuring an SQL Database in Azure](https://github.com/ZGB97/AzureSQL-CC/tree/main)
 - <b>Azure (Azure Cosmos Databases)</b>
   - [Create and Configure an Azure Cosmos Database](https://github.com/ZGB97/CosmoDB/tree/main)
 - <b>Azure (SQL, Azure Databricks)</b>
