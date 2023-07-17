@@ -28,6 +28,11 @@
 - <b>Azure (SQL, Azure Databricks)</b>
   - Create Data Pipeline in Azure - Pending
 
+<h2> 🪪Security:</h2>
+
+- <b> Public Key Infrastructure (Kali Linux)</b>
+  - [Creating a Self-Signed Certificate](https://github.com/ZGB97/WBankProject/tree/main)
+
 <h2>📰 Certifications </h2>
 
 - [CompTIA Security+ ](https://github.com/ZGB97/CompTIA-Security/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf)
