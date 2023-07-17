@@ -31,7 +31,7 @@
 <h2> 🪪Security:</h2>
 
 - <b> Public Key Infrastructure (Kali Linux)</b>
-  - [Creating a Self-Signed Certificate](https://github.com/ZGB97/WBankProject/tree/main)
+  - [Creating a Self-Signed Certificate](https://github.com/ZGB97/self-sign-cert/tree/main)
 
 <h2>📰 Certifications </h2>
 
