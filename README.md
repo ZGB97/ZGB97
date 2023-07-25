@@ -36,7 +36,7 @@
 <h2>📰 Certifications </h2>
 
 - [CompTIA Security+ ](https://github.com/ZGB97/CompTIA-Security/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf)
-- [Cisco Certified Network Associate](https://github.com/ZGB97/CCNA)
+- [CompTIA Linux+](https://github.com/ZGB97/CCNA)
 - [Microsoft Certified: Microsoft Data Fundamentals](https://github.com/ZGB97/AzureDataFund/blob/main/Certifications%20-%20NVBryantZonteNorthernVirginia-5393%20_%20Microsoft%20Learn.pdf)
 
 <h2> 🤳 Connect with me:</h2>
