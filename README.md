@@ -28,12 +28,12 @@
 - <b>Azure (SQL, Azure Databricks)</b>
   - Create Data Pipeline in Azure - Pending
 
-<h2> ☁️Cloud:</h2>
+<h2> ☁️ Cloud:</h2>
 
 - <b> Microsoft Azure (Azure Storage Account)</b>
   - [Create a Storage Account](https://github.com/ZGB97/StorageAzure)
 
-<h2> 🪪Security:</h2>
+<h2> 🪪 Security:</h2>
 
 - <b> Public Key Infrastructure (Kali Linux)</b>
   - [Creating a Self-Signed Certificate](https://github.com/ZGB97/self-sign-cert/tree/main)
