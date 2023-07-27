@@ -31,7 +31,7 @@
 <h2> ☁️Cloud:</h2>
 
 - <b> Microsoft Azure (Azure Storage Account)</b>
-  - [Create a Storage Account](https://github.com/ZGB97/self-sign-cert/tree/main)
+  - [Create a Storage Account](https://github.com/ZGB97/StorageAzure)
 
 <h2> 🪪Security:</h2>
 
