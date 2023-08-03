@@ -32,6 +32,7 @@
 
 - <b> Microsoft Azure (Azure Storage Account)</b>
   - [Create a Storage Account](https://github.com/ZGB97/StorageAzure)
+  - [Creating Azure Policies](https://github.com/ZGB97/AzurePol)
 
 <h2> 🪪 Security:</h2>
 
