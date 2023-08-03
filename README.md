@@ -30,7 +30,7 @@
 
 <h2> ☁️ Cloud:</h2>
 
-- <b> Microsoft Azure (Azure Storage Account)</b>
+- <b> Microsoft Azure </b>
   - [Create a Storage Account](https://github.com/ZGB97/StorageAzure)
   - [Creating Azure Policies](https://github.com/ZGB97/AzurePol)
 
