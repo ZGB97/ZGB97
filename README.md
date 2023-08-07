@@ -7,9 +7,9 @@
   - [Basic Math Practice](https://github.com/ZGB97/Basic-Math-Practice)
   - [Computer Hardware Quiz](https://github.com/ZGB97/HardwareQuiz)
 - <b>Web Applications</b>
-  - [CRUD Census (Mean Stack)](https://github.com/ZGB97/MEAN-STACK)
-  - [Restaurant Calculator (JavaScript)](https://github.com/ZGB97/RestCac/tree/main)
-  - [Welcome Page (JavaScript)](https://github.com/ZGB97/WelcomeJav/tree/main)
+  - [CRUD Census ](https://github.com/ZGB97/MEAN-STACK)
+  - [Restaurant Calculator ](https://github.com/ZGB97/RestCac/tree/main)
+  - [Welcome Page ](https://github.com/ZGB97/WelcomeJav/tree/main)
   - [Fitness Platform](https://github.com/ZGB97/Fitness--Program)
 - <b>Python </b>
   - [Calculator Program](https://github.com/ZGB97/Python-CAC)
