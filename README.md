@@ -5,7 +5,6 @@
 - <b>Full Stack Web App </b>
   - [Fitness Platform](https://github.com/ZGB97/Fitness--Program)
 - <b>C </b>
-  - [ROCK, PAPER, SCISSORS Game](https://github.com/ZGB97/Rock-Paper-Scissors)
   - [HAUNTED ROAD Game](https://github.com/ZGB97/Haunt-House-Game)
   - [Basic Math Practice](https://github.com/ZGB97/Basic-Math-Practice)
 - <b>Web Applications</b>
