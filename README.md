@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>C </b>
+- <b>Simple Programs </b>
   - [HAUNTED ROAD Game](https://github.com/ZGB97/Haunt-House-Game)
   - [Basic Math Practice](https://github.com/ZGB97/Basic-Math-Practice)
 - <b>Web Applications</b>
