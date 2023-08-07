@@ -2,8 +2,6 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Full Stack Web App </b>
-  - [Fitness Platform](https://github.com/ZGB97/Fitness--Program)
 - <b>C </b>
   - [HAUNTED ROAD Game](https://github.com/ZGB97/Haunt-House-Game)
   - [Basic Math Practice](https://github.com/ZGB97/Basic-Math-Practice)
@@ -11,6 +9,7 @@
   - [CRUD Census (Mean Stack)](https://github.com/ZGB97/MEAN-STACK)
   - [Restaurant Calculator (JavaScript)](https://github.com/ZGB97/RestCac/tree/main)
   - [Welcome Page (JavaScript)](https://github.com/ZGB97/WelcomeJav/tree/main)
+  - [Fitness Platform](https://github.com/ZGB97/Fitness--Program)
 - <b>Python </b>
   - [Calculator Program](https://github.com/ZGB97/Python-CAC)
 
