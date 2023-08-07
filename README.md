@@ -5,6 +5,7 @@
 - <b>Simple Programs </b>
   - [HAUNTED ROAD Game](https://github.com/ZGB97/Haunt-House-Game)
   - [Basic Math Practice](https://github.com/ZGB97/Basic-Math-Practice)
+  - [Computer Hardware Quiz](https://github.com/ZGB97/HardwareQuiz)
 - <b>Web Applications</b>
   - [CRUD Census (Mean Stack)](https://github.com/ZGB97/MEAN-STACK)
   - [Restaurant Calculator (JavaScript)](https://github.com/ZGB97/RestCac/tree/main)
