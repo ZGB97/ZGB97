@@ -14,6 +14,11 @@
 - <b>Python </b>
   - [Calculator Program](https://github.com/ZGB97/Python-CAC)
 
+<h2> 📡 Network:</h2>
+
+- <b>Simple Home Network (Cisco Packet Tracer)</b>
+  - [Home Network](https://github.com/ZGB97/WBankProject/tree/main)
+
 <h2> 🔢Data Projects:</h2>
 
 - <b>Microsoft SQL Server (SQL, MS Visio)</b>
