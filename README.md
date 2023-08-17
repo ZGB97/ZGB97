@@ -17,7 +17,7 @@
 <h2> 📡 Network:</h2>
 
 - <b>Simple Home Network (Cisco Packet Tracer)</b>
-  - [Home Network](https://github.com/ZGB97/WBankProject/tree/main)
+  - [Home Network](https://github.com/ZGB97/homeNet1)
 
 <h2> 🔢Data Projects:</h2>
 
