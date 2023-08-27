@@ -18,6 +18,8 @@
 
 - <b>Simple Home Network (Cisco Packet Tracer)</b>
   - [Home Network](https://github.com/ZGB97/homeNet1)
+- <b>DSL Connection (Cisco Packet Tracer)</b>
+  - [DSL Connection](https://github.com/ZGB97/homeNet1)
 
 <h2> 🔢Data Projects:</h2>
 
