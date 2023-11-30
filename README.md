@@ -36,11 +36,13 @@
 <h2> 🪪Security Projects:</h2>
 
 - <b> Public Key Infrastructure (Kali Linux)</b>
-  - [Creating a Self-Signed Certificate](https://github.com/ZGB97/self-sign-cert/tree/main)
+  - [Creating a Self-Signed Certificate](https://github.com/ZGB97/self-sign-cert/tree/main)     
 - <b>Simple Home Network (Cisco Packet Tracer)</b>
   - [Home Network](https://github.com/ZGB97/homeNet1)
 - <b>DSL Connection (Cisco Packet Tracer)</b>
   - [DSL Connection](https://github.com/ZGB97/homeNet1)
+- <b> Windows Client and Server (VCASTLE)</b>
+  - [Initial Network setup for new location](https://github.com/ZGB97/client-serv) 
 
 <h2>📰 Certifications </h2>
 
