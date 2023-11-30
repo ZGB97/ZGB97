@@ -14,13 +14,6 @@
 - <b>Python </b>
   - [Calculator Program](https://github.com/ZGB97/Python-CAC)
 
-<h2> 📡 Network:</h2>
-
-- <b>Simple Home Network (Cisco Packet Tracer)</b>
-  - [Home Network](https://github.com/ZGB97/homeNet1)
-- <b>DSL Connection (Cisco Packet Tracer)</b>
-  - [DSL Connection](https://github.com/ZGB97/homeNet1)
-
 <h2> 🔢Data Projects:</h2>
 
 - <b>Microsoft SQL Server (SQL, MS Visio)</b>
@@ -34,21 +27,24 @@
 - <b>Azure (SQL, Azure Databricks)</b>
   - Create Data Pipeline in Azure - Pending
 
-<h2> ☁️ Cloud:</h2>
+<h2> ☁️ Cloud Projects:</h2>
 
 - <b> Microsoft Azure </b>
   - [Create a Storage Account](https://github.com/ZGB97/StorageAzure)
   - [Creating Azure Policies](https://github.com/ZGB97/AzurePol)
 
-<h2> 🪪 CyberSecurity:</h2>
+<h2> 🪪Security Projects:</h2>
 
 - <b> Public Key Infrastructure (Kali Linux)</b>
   - [Creating a Self-Signed Certificate](https://github.com/ZGB97/self-sign-cert/tree/main)
+- <b>Simple Home Network (Cisco Packet Tracer)</b>
+  - [Home Network](https://github.com/ZGB97/homeNet1)
+- <b>DSL Connection (Cisco Packet Tracer)</b>
+  - [DSL Connection](https://github.com/ZGB97/homeNet1)
 
 <h2>📰 Certifications </h2>
 
 - [CompTIA Security+ ](https://github.com/ZGB97/CompTIA-Security/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf)
-- [CompTIA Linux+](https://github.com/ZGB97/CompTIA-Linux/blob/main/CompTIA%20Linux%2B%20ce%20certificate.pdf)
 - [Microsoft Certified: Microsoft Data Fundamentals](https://github.com/ZGB97/AzureDataFund/blob/main/Certifications%20-%20NVBryantZonteNorthernVirginia-5393%20_%20Microsoft%20Learn.pdf)
   
 
