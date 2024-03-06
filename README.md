@@ -26,6 +26,8 @@
   - [Create and Configure an Azure Cosmos Database](https://github.com/ZGB97/CosmoDB/tree/main)
 - <b>Azure (SQL, Azure Databricks)</b>
   - Create Data Pipeline in Azure - Pending
+ 
+<h2> 🪟Windows Server Projects:</h2>
 
 <h2> ☁️ Cloud Projects:</h2>
 
