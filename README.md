@@ -29,6 +29,9 @@
  
 <h2> 🪟Windows Server Projects:</h2>
 
+- <b>Windows Server 2019 (Hyper-V Manager, Powershell)</b>
+  - [Configuring Hyper-V Storage Settings](https://github.com/ZGB97/cs251-15/tree/main)
+
 <h2> ☁️ Cloud Projects:</h2>
 
 - <b> Microsoft Azure </b>
