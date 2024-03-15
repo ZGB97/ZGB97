@@ -30,14 +30,15 @@
 <h2> 🪟Windows Server Projects:</h2>
 
 - <b>Windows Server 2019 (Hyper-V Manager, Powershell)</b>
-  - [Configuring Hyper-V Storage Settings](https://github.com/ZGB97/cs251-15/tree/main)
-  - [Creating Virtual Machines and Installing Operating Systems on them](https://github.com/ZGB97/cs251-16/tree/main)  
+  - [Configuring Hyper-V Storage Settings](https://github.com/ZGB97/cs251-15/tree/main)        
+  - [Creating Virtual Machines and Installing Operating Systems on them](https://github.com/ZGB97/cs251-16/tree/main)
+  - [DNS Name Resolution](https://github.com/ZGB97/CIS23) 
 
 <h2> ☁️ Cloud Projects:</h2>
 
 - <b> Microsoft Azure </b>
   - [Create a Storage Account](https://github.com/ZGB97/StorageAzure)
-  - [Creating Azure Policies](https://github.com/ZGB97/AzurePol)
+  - [Creating Azure Policies](https://github.com/ZGB97/AzurePol)        
 
 <h2> 🪪Security Projects:</h2>
 
