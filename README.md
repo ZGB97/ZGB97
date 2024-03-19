@@ -34,6 +34,7 @@
   - [Creating Virtual Machines and Installing Operating Systems on them](https://github.com/ZGB97/cs251-16/tree/main)
   - [DNS Name Resolution](https://github.com/ZGB97/CIS23)
   - [Creating DNS Zones in Windows](https://github.com/ZGB97/cis33) 
+  - [Installing Active Directory](https://github.com/ZGB97/cis37) 
 
 <h2> ☁️ Cloud Projects:</h2>
 
