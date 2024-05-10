@@ -23,7 +23,9 @@
 - <b>Azure (Azure SQL Databases)</b>
   - [Creating and Configuring an SQL Database in Azure](https://github.com/ZGB97/AzureSQL-CC/tree/main)
 - <b>Azure (Azure Cosmos Databases)</b>
-  - [Create and Configure an Azure Cosmos Database](https://github.com/ZGB97/CosmoDB/tree/main)
+  - [Create and Configure an Azure Cosmos Database](https://github.com/ZGB97/CosmoDB/tree/main)      
+- <b>SQL (PostgreSQL)</b>
+  - [Healthcare Data Project](https://github.com/ZGB97/HealthData1/tree/main)
 - <b>Azure (SQL, Azure Databricks)</b>
   - Create Data Pipeline in Azure - Pending
  
