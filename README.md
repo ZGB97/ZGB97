@@ -13,6 +13,10 @@
   - [Fitness Platform](https://github.com/ZGB97/Fitness--Program)
 - <b>Python </b>
   - [Calculator Program](https://github.com/ZGB97/Python-CAC)
+ 
+<h2> 📜Linux:</h2>
+
+  - [Configure a Firewall and Monitor System Performance](https://github.com/ZGB97/Linux--1/tree/main)
 
 <h2> 🔢Data Projects:</h2>
 
