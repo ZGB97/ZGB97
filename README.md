@@ -16,7 +16,7 @@
  
 <h2> 📜Linux:</h2>
 
-  - [Configure a Firewall and Monitor System Performance](https://github.com/ZGB97/Linux--1/tree/main)
+  - [Configured a Firewall and Monitor System Performance](https://github.com/ZGB97/Linux--1/tree/main)
   - [Created a systemd Script]( https://github.com/ZGB97/Linux--3)
   - [Monitoring Linux](https://github.com/ZGB97/Linux2)
     
