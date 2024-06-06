@@ -16,8 +16,8 @@
  
 <h2> 📜Linux:</h2>
 
-  - [Configure a Firewall and Monitor System Performance](https://github.com/ZGB97/Linux--1/tree/main)
-
+  - [Configure a Firewall and Monitor System Performance](https://github.com/ZGB97/Linux--1/tree/main) 
+  - [Monitoring Linux](https://github.com/ZGB97/Linux2)
 <h2> 🔢Data Projects:</h2>
 
 - <b>Microsoft SQL Server (SQL, MS Visio)</b>
