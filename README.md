@@ -19,7 +19,8 @@
   - [Configured a Firewall and Monitor System Performance](https://github.com/ZGB97/Linux--1/tree/main)
   - [Created a systemd Script]( https://github.com/ZGB97/Linux--3)        
   - [Managed a Linux Storage Using Gparted](https://github.com/ZGB97/linux---4)
-  - [Monitoring Linux](https://github.com/ZGB97/Linux2)
+  - [Monitoring Linux](https://github.com/ZGB97/Linux2)  
+  - [Configured Ansible, Run a Module](https://github.com/ZGB97/Linux---5)
     
 <h2> 🔢Data Projects:</h2>
 
