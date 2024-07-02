@@ -54,7 +54,7 @@
 - <b> AWS </b>
   - [Deploying a Web Server on AWS EC2 Instance](https://github.com/ZGB97/EC2Intro/tree/main)      
   - [Automated EC2 Instance Management with AWS Lambda](https://github.com/ZGB97/LamIntroAWS)
-  - [Deploying an Application with AWS Elastic Beanstalk](https://github.com/ZGB97/LamIntroAWS)  
+  - [Deploying an Application with AWS Elastic Beanstalk](https://github.com/ZGB97/AWSEBEANSTALK)  
     
 <h2> 🪪Security Projects:</h2>
 
