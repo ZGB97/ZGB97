@@ -51,6 +51,8 @@
 - <b> Microsoft Azure </b>
   - [Create a Storage Account](https://github.com/ZGB97/StorageAzure)
   - [Creating Azure Policies](https://github.com/ZGB97/AzurePol)        
+- <b> AWS </b>
+  - [Create a Storage Account](https://github.com/ZGB97/EC2Intro/tree/main)      
 
 <h2> 🪪Security Projects:</h2>
 
