@@ -53,7 +53,7 @@
   - [Creating Azure Policies](https://github.com/ZGB97/AzurePol)        
 - <b> AWS </b>
   - [Deploying a Web Server on AWS EC2 Instance](https://github.com/ZGB97/EC2Intro/tree/main)      
-  - [Automated EC2 Instance Management with AWS Lambda](https://github.com/ZGB97/EC2Intro/tree/main)  
+  - [Automated EC2 Instance Management with AWS Lambda](https://github.com/ZGB97/LamIntroAWS)  
 
 <h2> 🪪Security Projects:</h2>
 
