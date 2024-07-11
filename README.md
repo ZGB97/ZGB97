@@ -55,7 +55,7 @@
   - [Deploying a Web Server on AWS EC2 Instance](https://github.com/ZGB97/EC2Intro/tree/main)      
   - [Automated EC2 Instance Management with AWS Lambda](https://github.com/ZGB97/LamIntroAWS)
   - [Deploying an Application with AWS Elastic Beanstalk](https://github.com/ZGB97/AWSEBEANSTALK) 
-  - [Amazon Elastic Block Store (Amazon EBS]()
+  - [Amazon Elastic Block Store (Amazon EBS](https://github.com/ZGB97/EBS/tree/main)
     
 <h2> 🪪Security Projects:</h2>
 
