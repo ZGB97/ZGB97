@@ -44,7 +44,9 @@
   - [Creating Virtual Machines and Installing Operating Systems on them](https://github.com/ZGB97/cs251-16/tree/main)
   - [DNS Name Resolution](https://github.com/ZGB97/CIS23)
   - [Creating DNS Zones in Windows](https://github.com/ZGB97/cis33) 
-  - [Installing Active Directory](https://github.com/ZGB97/cis37) 
+  - [Installing Active Directory](https://github.com/ZGB97/cis37)
+- <b> Windows Client and Server (VCASTLE)</b>
+  - [Initial Network setup for new location](https://github.com/ZGB97/client-serv) 
 
 <h2> ☁️ Cloud Projects:</h2>
 
@@ -64,9 +66,7 @@
 - <b>Simple Home Network (Cisco Packet Tracer)</b>
   - [Home Network](https://github.com/ZGB97/homeNet1)
 - <b>DSL Connection (Cisco Packet Tracer)</b>
-  - [DSL Connection](https://github.com/ZGB97/dsl)
-- <b> Windows Client and Server (VCASTLE)</b>
-  - [Initial Network setup for new location](https://github.com/ZGB97/client-serv) 
+  - [DSL Connection](https://github.com/ZGB97/dsl) 
 
 <h2>📰 Certifications </h2>
 
