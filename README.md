@@ -22,7 +22,7 @@
   - [Monitoring Linux](https://github.com/ZGB97/Linux2)  
   - [Configured Ansible, Run a Module](https://github.com/ZGB97/Linux---5)
     
-<h2> 🔢Data Projects:</h2>
+<h2> 🔢Database Projects:</h2>
 
 - <b>Microsoft SQL Server (SQL, MS Visio)</b>
   - [WBank of America](https://github.com/ZGB97/WBankProject/tree/main)
