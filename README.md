@@ -34,6 +34,8 @@
   - [Create and Configure an Azure Cosmos Database](https://github.com/ZGB97/CosmoDB/tree/main)      
 - <b>SQL (PostgreSQL)</b>
   - [Healthcare Data Project](https://github.com/ZGB97/HealthData1/tree/main)
+- <b>Amazon RDS</b>
+  - [Creating and Managing a MySQL Database Instance ](https://github.com/ZGB97/AWS-RDS/tree/main)
 - <b>Azure (SQL, Azure Databricks)</b>
   - Create Data Pipeline in Azure - Pending
  
