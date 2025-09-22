@@ -1,5 +1,17 @@
 <h1>Hi, I'm Zonte! </h1>
 
+<h2> ☁️ Cloud Projects:</h2>
+
+- <b> Microsoft Azure </b>
+  - [Create a Storage Account](https://github.com/ZGB97/StorageAzure)
+  - [Creating Azure Policies](https://github.com/ZGB97/AzurePol)
+  - [Implementing Identity Governance & Zero Trust in Azure Entra ID (Pending)]()      
+- <b> AWS </b>
+  - [Deploying a Web Server on AWS EC2 Instance](https://github.com/ZGB97/EC2Intro/tree/main)      
+  - [Automated EC2 Instance Management with AWS Lambda](https://github.com/ZGB97/LamIntroAWS)
+  - [Deploying an Application with AWS Elastic Beanstalk](https://github.com/ZGB97/AWSEBEANSTALK) 
+  - [Amazon Elastic Block Store (Amazon EBS)](https://github.com/ZGB97/EBS/tree/main)
+    
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Simple Programs </b>
@@ -48,18 +60,6 @@
   - [Installing Active Directory](https://github.com/ZGB97/cis37)
 - <b> Windows Client and Server (VCASTLE)</b>
   - [Initial Network setup for new location](https://github.com/ZGB97/client-serv) 
-
-<h2> ☁️ Cloud Projects:</h2>
-
-- <b> Microsoft Azure </b>
-  - [Create a Storage Account](https://github.com/ZGB97/StorageAzure)
-  - [Creating Azure Policies](https://github.com/ZGB97/AzurePol)
-  - [Implementing Identity Governance & Zero Trust in Azure Entra ID (Pending)]()      
-- <b> AWS </b>
-  - [Deploying a Web Server on AWS EC2 Instance](https://github.com/ZGB97/EC2Intro/tree/main)      
-  - [Automated EC2 Instance Management with AWS Lambda](https://github.com/ZGB97/LamIntroAWS)
-  - [Deploying an Application with AWS Elastic Beanstalk](https://github.com/ZGB97/AWSEBEANSTALK) 
-  - [Amazon Elastic Block Store (Amazon EBS)](https://github.com/ZGB97/EBS/tree/main)
     
 <h2> 🪪Security Projects:</h2>
 
