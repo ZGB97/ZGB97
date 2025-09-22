@@ -5,7 +5,7 @@
 - <b> Microsoft Azure </b>
   - [Create a Storage Account](https://github.com/ZGB97/StorageAzure)
   - [Creating Azure Policies](https://github.com/ZGB97/AzurePol)
-  - [Implementing Identity Governance & Zero Trust in Azure Entra ID (Pending)]()      
+  - [Zero Trust Access Controls in Microsoft Entra ID](https://github.com/ZGB97/entra-id-zero-trust-lab)      
 - <b> AWS </b>
   - [Deploying a Web Server on AWS EC2 Instance](https://github.com/ZGB97/EC2Intro/tree/main)      
   - [Automated EC2 Instance Management with AWS Lambda](https://github.com/ZGB97/LamIntroAWS)
